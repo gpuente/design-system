@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/gpuente/design-system/compare/v1.0.0...v1.1.0) (2023-10-23)
+
+
+### Features
+
+* added public access ([a2f147a](https://github.com/gpuente/design-system/commit/a2f147aeae4964b6c4962fecf09182de6da1957e))
+
 # 1.0.0 (2023-10-23)
 
 
