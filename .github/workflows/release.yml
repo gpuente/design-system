@@ -17,11 +17,11 @@ jobs:
       with:
         node-version: 18.x
     - name: Install dependencies
-      run: npx ci
+      run: yarn install
     - name: Install semantic-release extra plugins
-      run: npm install --save-dev @semantic-release/changelog @semantic-release/git      
+      run: yarn add -D @semantic-release/changelog @semantic-release/git      
     - name: Build
-      run: npm run build      
+      run: yarn build     
     - name: Release
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
