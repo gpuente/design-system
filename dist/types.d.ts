@@ -8,4 +8,4 @@ export type EditorProps<S, A extends Action> = {
     dispatch: (action: A | BaseAction) => void;
     editorContext: EditorContext;
 };
-export type TestType = 'asd';
+export type TestType = 'asd' | 'qwe' | 'zxc';
