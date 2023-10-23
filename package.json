@@ -2,7 +2,9 @@
     "name": "@gpuente-org-test/design-system",
     "version": "0.0.0-semantic-release",
     "description": "",
-    "private": false,
+    "publishConfig": {
+        "access": "public"
+    },
     "files": [
         "/dist"
     ],
