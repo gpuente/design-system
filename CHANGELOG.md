@@ -1,3 +1,10 @@
+## [1.1.1-beta.1](https://github.com/gpuente/design-system/compare/v1.1.0...v1.1.1-beta.1) (2023-10-23)
+
+
+### Bug Fixes
+
+* added type new ([1a42ee2](https://github.com/gpuente/design-system/commit/1a42ee2f9a774e916bb744cb1b2645e4b1b8b98a))
+
 # [1.1.0](https://github.com/gpuente/design-system/compare/v1.0.0...v1.1.0) (2023-10-23)
 
 
