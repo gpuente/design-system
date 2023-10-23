@@ -1,6 +1,6 @@
 {
     "name": "@gpuente-org-test/design-system",
-    "version": "0.0.0-semantic-release",
+    "version": "1.1.1-beta.2",
     "description": "",
     "publishConfig": {
         "access": "public"

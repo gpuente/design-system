@@ -1,3 +1,10 @@
+## [1.1.1-beta.2](https://github.com/gpuente/design-system/compare/v1.1.1-beta.1...v1.1.1-beta.2) (2023-10-23)
+
+
+### Bug Fixes
+
+* changed commit config for semantic-release ([f1305b9](https://github.com/gpuente/design-system/commit/f1305b97902fbd0beba96cb48720e42ae09cd49e))
+
 ## [1.1.1-beta.1](https://github.com/gpuente/design-system/compare/v1.1.0...v1.1.1-beta.1) (2023-10-23)
 
 
