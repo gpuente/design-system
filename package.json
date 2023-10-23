@@ -21,14 +21,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/powerhouse-inc/design-system.git"
+        "url": "git+https://github.com/gpuente/design-system.git"
     },
     "author": "https://www.powerhouse.inc/",
     "license": "AGPL-3.0-only",
     "bugs": {
-        "url": "https://github.com/powerhouse-inc/design-system/issues"
+        "url": "https://github.com/gpuente/design-system/issues"
     },
-    "homepage": "https://github.com/powerhouse-inc/design-system#readme",
+    "homepage": "https://github.com/gpuente/design-system#readme",
     "devDependencies": {
         "@semantic-release/changelog": "^6.0.3",
         "@semantic-release/git": "^10.0.1",
