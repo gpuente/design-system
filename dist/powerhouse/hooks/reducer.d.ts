@@ -1,4 +1,0 @@
-import type { Action, BaseAction, Document, ExtendedState, Reducer } from 'document-model/document';
-export declare function wrapReducer<State, A extends Action>(reducer: Reducer<State, A>, onError?: (error: unknown) => void): Reducer<State, A>;
-export declare function createUseDocumentReducer<State, A extends Action>(reducer: Reducer<State, A>, createDocument: (document?: Partial<ExtendedState<Partial<State>>>) => Document<State, A>): (document?: Partial<ExtendedState<Partial<State>>>, onError?: ((error: unknown) => void) | undefined) => readonly [Document<State, A>, (action: BaseAction | A) => void];
-export declare function useDocumentReducer<State, A extends Action>(reducer: Reducer<State, A>, initialState: Document<State, A>, onError?: (error: unknown) => void): readonly [Document<State, A>, (action: A | BaseAction) => void];
